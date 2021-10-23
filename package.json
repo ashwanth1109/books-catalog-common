@@ -1,0 +1,19 @@
+{
+  "name": "@ashwanth1109/books-catalog-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwanth1109/books-catalog-common.git"
+  },
+  "author": "ashwanth1109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwanth1109/books-catalog-common/issues"
+  },
+  "homepage": "https://github.com/ashwanth1109/books-catalog-common#readme"
+}
