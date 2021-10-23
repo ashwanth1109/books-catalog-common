@@ -3,5 +3,5 @@ export enum PORT {
 }
 
 export enum API {
-  V1 = "v1",
+  V1 = 'v1',
 }
