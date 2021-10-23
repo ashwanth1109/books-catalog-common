@@ -8,7 +8,7 @@
     "prebuild": "npm run clean",
     "build": "tsc",
     "patch": "npm version patch",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build && npm run patch",
     "prettify:run": "prettier --write .",
     "prettify:check": "prettier --check .",
     "lint": "eslint . --ext .ts",
